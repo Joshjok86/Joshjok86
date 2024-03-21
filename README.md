@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning ... ruby and javascript
 - 💞️ I’m looking to collaborate on ... good people :)
 - 📫 How to reach me ... maybe ask LeWagon, or when i figured out how to share my mail securely i would do this 
-- ⚡ Fun fact: ... you can smell garlic with your feet but i won't try 
+- ⚡ Fun fact: ... you could taste garlic with your feet but i won't try 
