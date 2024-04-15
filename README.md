@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">Online-Marketer turned Fullstack Web Developer</h3>
 
-- 🌱 I’m currently learning **just finished LeWagon Web-Development**
+<p>I'm an full-stack web developer just finished with **Le Wagon** building my dream of being a freelance-programmer an web dev.</p>
 
-- 👯 I’m looking to collaborate on **nice people i could learn from**
-
-- 📫 How to reach me **dreimalr@gmail.com**
+📫 **dreimalr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
